@@ -1,0 +1,9 @@
+=head1 Xenofur's Market Equalizer
+
+This code provides a means to determine the most profitable items to manufacture in any particular market region.
+
+FIXME - more detail needed here.
+
+FIXME - installation instructions.
+
+FIXME - contact details.
