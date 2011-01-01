@@ -1,4 +1,4 @@
-=head1 Xenofur's Market Equalizer
+=head1 EVE Online Market Equalizer
 
 This code provides a means to determine the most profitable items to manufacture in any particular market region.
 
